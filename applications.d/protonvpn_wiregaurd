@@ -1,0 +1,4 @@
+[Wiregaurd4ProtonVPN]
+title=Wiregaurd Profile
+description=ProtonVPN using Wiregaurd Rules -- UDP Port 51821 Allow
+ports=51821/udp
