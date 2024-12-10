@@ -1,7 +1,7 @@
 Introduction
 
 ## Premade App Rules are located in the ```applications.d``` folder
-## Premade Rules can be located/deposited into  ```/etc/ufw/applications.d``` then using ```sudo ufw list apps``` you'll see them listed and be available for usage.
+## Premade Rules can be located/deposited into  ```/etc/ufw/applications.d``` then using ```sudo ufw app list``` you'll see them listed and be available for usage.
 
 UFW (uncomplicated firewall) is a firewall configuration tool that runs on top of iptables, included by default within Ubuntu distributions. It provides a streamlined interface for configuring common firewall use cases via the command line.
 
