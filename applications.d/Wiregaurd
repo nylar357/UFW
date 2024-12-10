@@ -1,0 +1,4 @@
+[ProtonVPN - Wiregaurd]
+title=Wiregaurd Profile
+description=ProtonVPN using Wiregaurd Rules
+ports=51820/udp
